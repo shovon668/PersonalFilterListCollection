@@ -204,7 +204,7 @@
 ||mobile.facebook.com$important
 ||o.facebook.com$important
 ||p.facebook.com$important
-||web.facebook.com$document,important
+! ||web.facebook.com$document,important
 ||z-1-*.facebook.com$important
 ||z-1-*.facebook.net$important
 ||z-1-*.fbcdn.net$important
